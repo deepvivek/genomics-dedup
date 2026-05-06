@@ -2,4 +2,6 @@ target/
 *.db
 *.tmp
 *.log
+**/.DS_Store
 .DS_Store
+.claude/

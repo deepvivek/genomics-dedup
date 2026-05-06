@@ -1,0 +1,7 @@
+com/genomics/dedup/cache/HashCacheTest.class
+com/genomics/dedup/report/CsvReportWriterTest.class
+com/genomics/dedup/xlsx/XlsxReportGeneratorTest.class
+com/genomics/dedup/hash/FileHasherTest.class
+com/genomics/dedup/report/DuplicateGroupTest.class
+com/genomics/dedup/engine/FileScanEngineIntegrationTest.class
+com/genomics/dedup/engine/Phase1WalkerTest.class

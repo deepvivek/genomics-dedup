@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /tmp/vcf_test/subdir_a /tmp/vcf_test/subdir_b /tmp/vcf_out)",
+      "Read(//opt/homebrew/Cellar/maven/3.9.15/bin/**)",
+      "Read(//usr/local/bin/**)",
+      "Bash(export JAVA_HOME=/opt/homebrew/opt/openjdk@17)",
+      "Bash(/opt/homebrew/bin/mvn package *)",
+      "Bash(/opt/homebrew/opt/openjdk@17/bin/java -Xmx2g -jar /Users/vivek/Downloads/dedupeFinal/target/vcf-dedup-2.0.0.jar /tmp/vcf_test /tmp/vcf_out 4 0)"
+    ]
+  }
+}

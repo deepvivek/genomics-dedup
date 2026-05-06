@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.genomics.dedup.engine.FileScanEngineIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 11, Time elapsed: 0 s -- in com.genomics.dedup.engine.FileScanEngineIntegrationTest
